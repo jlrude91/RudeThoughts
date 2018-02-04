@@ -1,0 +1,61 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Rude Thoughts"
+  subtitle    = "Let's talk a little"
+
+  cover       = "uploads/header_image.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.rudethoughts. om"
+  orgDescription = "Listen "
+
+  author = "JR"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Food"
+  url = "/categories/food/"
+  weight = 100
+
+[[menu.main]]
+  name = "About"
+  url = "/content/about"
+  weight = 99
+
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95

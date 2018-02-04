@@ -1,0 +1,3 @@
+[submodule "themes/capser-two"]
+	path = themes/caspter-two
+	url = https://github.com/eueung/hugo-casper-two
