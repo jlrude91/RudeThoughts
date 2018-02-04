@@ -51,7 +51,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "About"
-  url = "/content/about/"
+  url = "/about"
   weight = 99
 
 

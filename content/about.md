@@ -1,12 +1,12 @@
 ---
-author: "Jerry Rude"
-date: 2018-02-04
-linktitle: About
-next: 
-prev: 
-title: About
-weight: 10
-authorAvatar: 
+comments: false
+noauthor: true
+draft: false
+date: "2018-02-04"
+linktitle: "About"
+share: false
+type: "page"
+title: "About Me"
 ---
 
 Welcome, and thank you for coming to check out our page at RudeThoughts!  RudeThoughts has one very big goal in mind, we want to spread conservative and libertarian concepts and ideas through discussion and facts. There will be heavier areas of focus, and probably topics we end up missing completely. This will likely also expand and shrink as the page grows and changes to subscribers wants and general age progression. Right now, our topic goals are relatively simple; economics, public policy, and social issues, with the focus on economics. We will discuss our real-world experience, research, and education in these areas to clarify and simplify what can seem like confusing and mentally overwhelming issues. Again we thank you, and we hope that you enjoy our page and continue to come back!
