@@ -1,7 +1,7 @@
 ---
 author: "Jerry Rude"
 date: 2018-02-04
-linktitle: Awesomeness
+linktitle: About
 next: 
 prev: 
 title: About

@@ -45,13 +45,13 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Food"
+  name = "Thoughts"
   url = "/categories/food/"
   weight = 100
 
 [[menu.main]]
   name = "About"
-  url = "/content/about"
+  url = "/content/about/"
   weight = 99
 
 
