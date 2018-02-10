@@ -37,7 +37,7 @@ collections:
         required: true
       - {label: "Image", name: image, widget: image, required: false}
       - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
-      - {label: Tags, name: tags, widget: list, required: false}
+      - {label: Tags, name: tags, widget: list, required: false, default: ""}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Thought, name: body, widget: markdown}

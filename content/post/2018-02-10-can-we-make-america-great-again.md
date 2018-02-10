@@ -7,7 +7,6 @@ authorAvatar: uploads/author_JerryRude.jpg
 image: /uploads/maga.png
 categories: thoughts
 tags:
-  - ''
 comments: true
 share: true
 ---
