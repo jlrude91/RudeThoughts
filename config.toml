@@ -16,9 +16,9 @@ paginate        = 6
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
+  twitterName = ""
+  fbName = "jlrude"
+  githubName = ""
 
   logo = ""
   orgName = "Rude Thoughts"
@@ -37,7 +37,7 @@ paginate        = 6
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/post/:slug/"
+post = "/thought/:slug/"
 
 [[menu.main]]
   name = "Home"
