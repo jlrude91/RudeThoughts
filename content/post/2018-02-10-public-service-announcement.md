@@ -1,9 +1,9 @@
 ---
 title: Public Service Announcement
 draft: false
-date: 2018-01-31T12:34:56-05:00
+date: 2018-01-31T17:34:56.000Z
 author: Jerry Rude
-authorAvatar: Jerry Rude
+authorAvatar: uploads/author_JerryRude.jpg
 comments: true
 share: true
 ---
