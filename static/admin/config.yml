@@ -19,3 +19,18 @@ collections:
           - {label: "Comments", name: "comments", widget: hidden, default: "false"}
           - {label: "Share", name: "share", widget: hidden, default: "false"}
           - {label: Body, name: body, widget: markdown}
+  - name: "post"
+    label: "Thought"
+    folder: "content/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: Title, name: title, widget: string, required: true}
+      - {label: Draft: name: draft, widget: boolean, default: true}
+      - {label: Date, name: date, widget: date, required: true}
+      - {label: Author, name: author, widget: select, options: [Jerry Rude], required: true}
+      - {label: Author Image, name: authorAvatar, widget: select, options: [label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"], required: true}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Thought, name: body, widget: markdown}
+  
