@@ -6,7 +6,7 @@ linktitle: Public Service Announcement
 nomenu:
 main:
 parent: 
-image: uploads/IMG_3720.jpg
+image: uploads/IMG_3720_2.jpg
 categories: [thoughts]
 title: Public Service Announcement
 weight: 10
