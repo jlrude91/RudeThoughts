@@ -35,7 +35,7 @@ collections:
         options: 
           - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
         required: true
-      - {label: "Image", value: image, widget: image, required: false}
+      - {label: "Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Thought, name: body, widget: markdown}
