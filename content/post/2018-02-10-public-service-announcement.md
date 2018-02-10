@@ -6,6 +6,7 @@ author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
 comments: true
 share: true
+undefined: /uploads/IMG_3720.jpg
 ---
 **Public Service Announcement!**
 
