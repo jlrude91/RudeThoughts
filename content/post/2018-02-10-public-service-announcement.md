@@ -4,6 +4,7 @@ draft: false
 date: 2018-01-31T17:34:56.000Z
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
+categories: [Thoughts]
 image: /uploads/IMG_3720.jpg
 comments: true
 share: true
