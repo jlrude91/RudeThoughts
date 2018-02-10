@@ -7,10 +7,10 @@ paginate        = 6
 
 [params]
   title       = "Rude Thoughts"
-  subtitle    = "Let's talk a little"
+  subtitle    = "Let's think a little"
   copyright   = "© 2018"
   cover       = "uploads/header_image.jpg"
-  description = "Here is a description of your site."
+  description = "Rude Thoughts...Let's think a little"
   metaDescription = ""
   googleAnalytics = "UA-88370265-3"
   customCSS = []
@@ -23,7 +23,7 @@ paginate        = 6
   logo = ""
   orgName = "Rude Thoughts"
   orgWebsite = "https://www.rudethoughts.com"
-  orgDescription = "Listen "
+  orgDescription = ""
 
   author = "Jerry Rude"
   authorAvatar = "uploads/author_JerryRude.jpg"
