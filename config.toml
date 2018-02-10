@@ -8,7 +8,7 @@ paginate        = 6
 [params]
   title       = "Rude Thoughts"
   subtitle    = "Let's talk a little"
-
+  copyright   = "© 2018"
   cover       = "uploads/header_image.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
@@ -21,15 +21,15 @@ paginate        = 6
   githubName = "eueung"
 
   logo = ""
-  orgName = "EM"
-  orgWebsite = "https://www.rudethoughts. om"
+  orgName = "Rude Thoughts"
+  orgWebsite = "https://www.rudethoughts.com"
   orgDescription = "Listen "
 
-  author = "JR"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
+  author = "Jerry Rude"
+  authorAvatar = "uploads/author_JerryRude.jpg"
+  authorLocation = "Dayton, OH"
+  authorWebsite = "https://rudethoughts.com"
+  authorDescription = "Hunter, Gatherer, Environmentalist"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -37,7 +37,7 @@ paginate        = 6
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/:slug/"
+  post = "/post/:slug/"
 
 [[menu.main]]
   name = "Home"
@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Thoughts"
-  url = "/categories/food/"
+  url = "/categories/thoughts/"
   weight = 100
 
 [[menu.main]]
@@ -54,8 +54,3 @@ paginate        = 6
   url = "/about"
   weight = 99
 
-
-[[menu.main]]
-  name = "External"
-  url = "https://google.com/"
-  weight = 95
