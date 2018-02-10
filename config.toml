@@ -1,7 +1,7 @@
 baseurl         = "https://rudethoughts.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "rudethoughts-1"
 paginate        = 6
 #SectionPagesMenu = "main"
 
@@ -12,7 +12,7 @@ paginate        = 6
   cover       = "uploads/header_image.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-88370265-3"
   customCSS = []
   RSSLink = ""
 
@@ -28,7 +28,7 @@ paginate        = 6
   author = "Jerry Rude"
   authorAvatar = "uploads/author_JerryRude.jpg"
   authorLocation = "Dayton, OH"
-  authorWebsite = "https://rudethoughts.com"
+  authorWebsite = "https://rudethoughts.com/author/jerryrude"
   authorDescription = "Hunter, Gatherer, Environmentalist"
 
   pageNotFoundTitle = "404 - Page not found"
