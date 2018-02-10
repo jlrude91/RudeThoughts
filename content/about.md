@@ -3,9 +3,7 @@ comments: false
 noauthor: true
 draft: false
 date: "2018-02-04"
-linktitle: "About"
 share: false
-type: "page"
 title: "About Me"
 ---
 
