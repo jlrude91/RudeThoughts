@@ -41,4 +41,11 @@ collections:
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Thought, name: body, widget: markdown}
+  - name: "test"
+    label: "Test"
+    folder: "content/post"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Title, name: title, widget: string, required: true}
   
