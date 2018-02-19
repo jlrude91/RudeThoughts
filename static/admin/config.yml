@@ -28,12 +28,5 @@ collections:
       - {label: Title, name: title, widget: string, required: true}
       - {label: Draft, name: draft, widget: boolean, default: true}
       - {label: Date, name: date, widget: date, required: true}
-      - {label: Author, name: author, widget: select, options: [Jerry Rude], required: true}
       
-      - {label: "Image", name: image, widget: image, required: false}
-      - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
-      - {label: Tags, name: tags, widget: list, required: false, default: ""}
-      - {label: Commenting, name: comments, widget: boolean, default: true}
-      - {label: Sharing, name: share, widget: boolean, default: true}
-      - {label: Thought, name: body, widget: markdown}
   
