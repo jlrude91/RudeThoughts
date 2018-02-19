@@ -32,9 +32,9 @@ collections:
       - label: Author Image
         name: authorAvatar
         widget: select
+        required: true
         options: 
           - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
-        required: true
         - {label: "Image", name: image, widget: image, required: false}
         - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
         - {label: Tags, name: tags, widget: list, required: false, default: ""}
