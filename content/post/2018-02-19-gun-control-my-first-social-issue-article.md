@@ -1,6 +1,6 @@
 ---
 title: Gun Control (My first social issue article)
-draft: true
+draft: false
 date: 2018-02-19T23:36:41.019Z
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
