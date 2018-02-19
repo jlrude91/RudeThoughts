@@ -30,7 +30,6 @@ collections:
       - {label: Date, name: date, widget: date, required: true}
       - {label: Author, name: author, widget: select, options: [Jerry Rude], required: true}
       
-        required: true
       - {label: "Image", name: image, widget: image, required: false}
       - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
       - {label: Tags, name: tags, widget: list, required: false, default: ""}
