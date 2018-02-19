@@ -37,5 +37,5 @@ collections:
           - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
       - {label: "Image", name: image, widget: image, required: false}
       - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
-      - {label: Tags, name: tags, widget: list, required: false, default: ""}
+      - {label: Tags, name: tags, widget: list, required: false}
       
