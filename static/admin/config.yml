@@ -36,4 +36,5 @@ collections:
         options: 
           - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
       - {label: "Image", name: image, widget: image, required: false}
+      - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
       
