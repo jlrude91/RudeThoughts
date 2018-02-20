@@ -1,6 +1,6 @@
 ---
 title: 'Republicans will win the war, Daily Ponders-1'
-draft: true
+draft: false
 date: 2018-02-20T16:13:43.811Z
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
@@ -19,6 +19,4 @@ Republicans will win the day. I was listening to Peter Schiff, as I do at some p
 
 Again everyone, these are my thoughts that run through my head as I think throughout the day, unedited, unscripted. Look into my more comprehensive, thought out, and structured full length articles that may dissect these ideas and explain why I still stand with them or why I may have changed my mind.
 
-
-
-https://youtu.be/1gPoHe_YPdY
+<sub><sup>https://youtu.be/1gPoHe_YPdY</sub></sup>
