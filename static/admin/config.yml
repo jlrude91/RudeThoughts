@@ -19,11 +19,11 @@ collections:
           - {label: "Comments", name: "comments", widget: hidden, default: "false"}
           - {label: "Share", name: "share", widget: hidden, default: "false"}
           - {label: Body, name: body, widget: markdown}
-  - name: "post"
+  - name: "thought"
     label: "Thought"
     folder: "content/post"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "Thought-{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: Title, name: title, widget: string, required: true}
       - {label: Draft, name: draft, widget: boolean, default: true}
@@ -41,4 +41,25 @@ collections:
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Thought, name: body, widget: markdown}
-      
+  - name: "ponder"
+    label: "Daily Ponder"
+    folder: "content/post"
+    create: true
+    slug: "Ponder-{{year}}-{{month}}-{{day}}-{{slug}}-"
+    fields:
+      - {label: Title, name: title, widget: string, required: true}
+      - {label: Draft, name: draft, widget: boolean, default: true}
+      - {label: Date, name: date, widget: date, required: true}
+      - {label: Author, name: author, widget: select, options: [Jerry Rude], required: true}
+      - label: Author Image
+        name: authorAvatar
+        widget: select
+        required: true
+        options: 
+          - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
+      - {label: "Image", name: image, widget: image, required: false}
+      - {label: Categories, name: categories, widget: hidden, default: "dailyponders"}
+      - {label: Tags, name: tags, widget: list, required: false}
+      - {label: Commenting, name: comments, widget: boolean, default: true}
+      - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Thought, name: body, widget: markdown}

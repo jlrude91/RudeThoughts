@@ -50,7 +50,12 @@ post = "/thought/:slug/"
   weight = 100
 
 [[menu.main]]
+  name = "Daily Ponders"
+  url = "/categories/dailyponder/"
+  weight = 99
+
+[[menu.main]]
   name = "About"
   url = "/about"
-  weight = 99
+  weight = 98
 
