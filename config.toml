@@ -50,7 +50,7 @@ ponder = "/dailyponder/:slug/"
   url = "/categories/thoughts/"
   weight = 100
 
-[#[menu.main]]
+#[[menu.main]]
  # name = "Daily Ponder"
   #url = "/categories/dailyponder/"
  # weight = 99
