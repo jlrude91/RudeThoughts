@@ -44,7 +44,7 @@ collections:
   - name: "ponder"
     label: "Daily Ponder"
     folder: "content/post"
-    create: true
+    create: false
     slug: "Ponder-{{year}}-{{month}}-{{day}}-{{slug}}-"
     fields:
       - {label: Title, name: title, widget: string, required: true}

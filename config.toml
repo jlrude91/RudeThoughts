@@ -38,6 +38,7 @@ paginate        = 6
 
 [permalinks]
 post = "/thought/:slug/"
+ponder = "/dailyponder/:slug/"
 
 [[menu.main]]
   name = "Home"
@@ -49,10 +50,10 @@ post = "/thought/:slug/"
   url = "/categories/thoughts/"
   weight = 100
 
-[[menu.main]]
-  name = "Daily Ponders"
-  url = "/categories/dailyponder/"
-  weight = 99
+[#[menu.main]]
+ # name = "Daily Ponder"
+  #url = "/categories/dailyponder/"
+ # weight = 99
 
 [[menu.main]]
   name = "About"
