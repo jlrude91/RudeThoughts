@@ -10,6 +10,7 @@ tags:
   - Trump
   - republican
   - economy
+  - Daily Ponders
 comments: true
 share: true
 ---
