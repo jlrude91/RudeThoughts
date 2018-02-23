@@ -14,6 +14,7 @@ tags:
   - wealth
   - economics
   - social
+  - Daily Ponders
 comments: true
 share: true
 ---
