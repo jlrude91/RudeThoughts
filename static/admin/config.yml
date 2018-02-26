@@ -28,13 +28,14 @@ collections:
       - {label: Title, name: title, widget: string, required: true}
       - {label: Draft, name: draft, widget: boolean, default: true}
       - {label: Date, name: date, widget: date, required: true}
-      - {label: Author, name: author, widget: select, options: [Jerry Rude], required: true}
+      - {label: Author, name: author, widget: select, options: [Jerry Rude, Austin Eidemiller], required: true}
       - label: Author Image
         name: authorAvatar
         widget: select
         required: true
         options: 
           - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
+          - {label: "Austin Eidemiller", value: "uploads/author_AustinEidemiller.jpg"}
       - {label: "Image", name: image, widget: image, required: false}
       - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
       - {label: Tags, name: tags, widget: list, required: false}
