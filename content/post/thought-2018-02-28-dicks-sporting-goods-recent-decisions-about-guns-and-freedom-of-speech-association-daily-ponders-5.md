@@ -1,7 +1,7 @@
 ---
 title: >-
-  Dicks sporting goods recent decisions about guns, and freedom of
-  speech/association, Daily Ponders-5 
+  Dicks Sporting Goods Recent Gun Sales Policy Change, and Freedom of
+  Speech/Association, Daily Ponders-5 
 draft: false
 date: 2018-02-28T16:38:52.347Z
 author: Jerry Rude
