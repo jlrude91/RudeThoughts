@@ -1,5 +1,5 @@
 ---
-title: Why be an Outdoors Man? Daily
+title: Why be an Outdoors Man?
 draft: false
 date: 2018-02-27T16:18:26.000Z
 author: Jerry Rude

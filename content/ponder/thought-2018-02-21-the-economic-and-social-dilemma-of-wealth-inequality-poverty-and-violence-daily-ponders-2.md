@@ -1,7 +1,6 @@
 ---
 title: >-
-  The Economic and Social Dilemma of Wealth Inequality, Poverty, and Violence,
-  Daily Ponders-2
+  The Economic and Social Dilemma of Wealth Inequality, Poverty, and Violence
 draft: false
 date: 2018-02-21T16:16:56.032Z
 author: Jerry Rude
