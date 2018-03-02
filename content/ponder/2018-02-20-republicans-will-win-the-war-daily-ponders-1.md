@@ -13,6 +13,7 @@ tags:
   - Daily Ponders
 comments: true
 share: true
+type: post
 ---
 Today I am starting what I hope to be a regular week day post called Daily Ponders. These are just my unscripted, unedited thoughts. I will write them on my lunch break while I eat, somewhat like a journal entry, trying to keep them short and allow you as the reader to catch a glimpse of what I am thinking about as I work through my every day life and find my way to specific topics. If you enjoy these please let me know with a like, share, or comment, thanks!
 
