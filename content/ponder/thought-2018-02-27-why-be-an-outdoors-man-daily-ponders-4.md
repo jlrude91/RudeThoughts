@@ -4,7 +4,7 @@ draft: false
 date: 2018-02-27T16:18:26.000Z
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
-image: /uploads/14908297_10210878985115859_5059444685567478332_n.jpg
+image: /uploads/14908297_10210878985115859_5059444685567478332_n_76.jpg
 categories: ponder
 tags:
   - Outdoors Man
