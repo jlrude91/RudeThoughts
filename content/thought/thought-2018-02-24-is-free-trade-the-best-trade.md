@@ -5,7 +5,7 @@ date: 2018-02-24T16:04:21.271Z
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
 image: /uploads/pexels-photo-753331.jpeg
-categories: thought
+categories: ponder
 tags:
   - Free
   - Trade
