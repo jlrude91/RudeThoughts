@@ -46,7 +46,7 @@ collections:
   - name: "ponder"
     label: "Ponder"
     folder: "content/ponder"
-    create: false
+    create: true
     slug: "{{year}}-{{slug}}"
     fields:
       - {label: Title, name: title, widget: string, required: true}
