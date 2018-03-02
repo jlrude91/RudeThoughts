@@ -1,5 +1,5 @@
 ---
-title: 'Comfortably Numb(ered), Daily Ponders'
+title: Comfortably Numb(ered)
 draft: false
 date: 2018-02-22T16:27:48.134Z
 author: Jerry Rude
