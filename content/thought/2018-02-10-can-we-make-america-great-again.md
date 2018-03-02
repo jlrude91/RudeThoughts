@@ -5,10 +5,11 @@ date: 2018-02-08T13:10:05-05:00
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
 image: /uploads/maga.png
-categories: thoughts
+categories: thought
 tags:
 comments: true
 share: true
+type: post
 ---
 Making America great again, it’s the campaign slogan of the current President, Donald Trump. Is this truly possible? That is my proposition for this article. To address this question, there are some definitions or assumptions that must be addressed. Is America not great, was America ever once great, what do we do now to make it "great" again? We can take a quick second to address these, but first, we must look at some clues that may guide us to the answers to these questions. First, I believe that right now is the absolute best time to be alive. Looking back throughout history, the world’s population lives at a notably higher level than any time before. If you live in a nation that has had any kind of industrial revolution, it multiplies this fact. The poorest people in today’s advanced societies live better than the wealthy of 150 years ago. In America, as this is really what the article is about, we have a welfare state that provides more than enough to survive. Most in poverty have cars, refrigerators, A/C and heat, cable tvs and cell phones. Stepping back and looking at this almost seems like an impossibility. Todays societal and technological advances make all of this possible, and I would say that by living standards America is not only great, but we have been for quite some time now.
 

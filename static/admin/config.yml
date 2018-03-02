@@ -21,9 +21,9 @@ collections:
           - {label: Body, name: body, widget: markdown}
   - name: "thought"
     label: "Thought"
-    folder: "content/post"
+    folder: "content/thought"
     create: true
-    slug: "Thought-{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{year}}-{{slug}}"
     fields:
       - {label: Title, name: title, widget: string, required: true}
       - {label: Draft, name: draft, widget: boolean, default: true}
@@ -37,16 +37,17 @@ collections:
           - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
           - {label: "Austin Eidemiller", value: "uploads/author_AustinEidemiller.jpg"}
       - {label: "Image", name: image, widget: image, required: false}
-      - {label: Categories, name: categories, widget: hidden, default: "thoughts"}
+      - {label: Categories, name: categories, widget: hidden, default: "thought"}
       - {label: Tags, name: tags, widget: list, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, type: type, widget: hidden, default: post}
       - {label: Thought, name: body, widget: markdown}
   - name: "ponder"
-    label: "Daily Ponder"
-    folder: "content/post"
+    label: "Ponder"
+    folder: "content/ponder"
     create: false
-    slug: "Ponder-{{year}}-{{month}}-{{day}}-{{slug}}-"
+    slug: "{{year}}-{{slug}}"
     fields:
       - {label: Title, name: title, widget: string, required: true}
       - {label: Draft, name: draft, widget: boolean, default: true}
@@ -60,8 +61,9 @@ collections:
           - {label: "Jerry Rude", value: "uploads/author_JerryRude.jpg"}
           - {label: "Austin Eidemiller", value: "uploads/author_AustinEidemiller.jpg"}
       - {label: "Image", name: image, widget: image, required: false}
-      - {label: Categories, name: categories, widget: hidden, default: "dailyponders"}
+      - {label: Categories, name: categories, widget: hidden, default: "ponder"}
       - {label: Tags, name: tags, widget: list, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
+      - {label: Type, type: type, widget: hidden, default: post}
       - {label: Thought, name: body, widget: markdown}

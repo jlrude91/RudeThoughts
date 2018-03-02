@@ -6,11 +6,12 @@ author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
 image: /uploads/IMG_3720.jpg
 categories:
-  - Thoughts
+  - thought
 tags:
   - Economics
 comments: true
 share: true
+type: post
 ---
 **Public Service Announcement!**
 

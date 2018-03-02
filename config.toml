@@ -37,8 +37,7 @@ paginate        = 6
   singleViewStyle = "casper"
 
 [permalinks]
-post = "/thought/:slug/"
-ponder = "/dailyponder/:slug/"
+post = "/post/:slug/"
 
 [[menu.main]]
   name = "Home"
@@ -47,13 +46,13 @@ ponder = "/dailyponder/:slug/"
 
 [[menu.main]]
   name = "Thoughts"
-  url = "/categories/thoughts/"
+  url = "/thought/"
   weight = 100
 
-#[[menu.main]]
- # name = "Daily Ponder"
-  #url = "/categories/dailyponder/"
- # weight = 99
+[[menu.main]]
+  name = "Daily Ponder"
+  url = "/ponder/"
+  weight = 99
 
 [[menu.main]]
   name = "About"
