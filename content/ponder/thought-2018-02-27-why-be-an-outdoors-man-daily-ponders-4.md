@@ -1,5 +1,5 @@
 ---
-title: Why be an Outdoors Man? Daily Ponders-4
+title: Why be an Outdoors Man? Daily
 draft: false
 date: 2018-02-27T16:18:26.000Z
 author: Jerry Rude
@@ -13,7 +13,6 @@ tags:
   - Daily Ponders
 comments: true
 share: true
-type: post
 ---
 Its spring time, deer season is over and next in line are turkey and morel mushrooms. Like basically all of my articles, why is the question, why is it that I get out and do the things that I do? Getting up, sometimes hours before the sun rises. Sitting in the cold and wet, trying to hold in any warmth that I can with layers of camo and a thermos of coffee. I love it, being out in nature is hard to describe really. Those that do it and have done it can relate to this feeling, but describing it to the unexposed, basically impossible. For me, I can take that one step further, and higher. The mountains of Appalachia is where I really feel it. When you get away from the lights of the city, you can still hear the cars on the highway. You get away from the the noises of the highway, and your phone still has service. You get into the hills of Appalachia, you are truly alone. You breathe the air differently, they sky is a different blue, the nighttime stars.....simply unimaginable. From an economic viewpoint this seems inefficient, a waste of time, resources, and money. We wont get into the economic discussion of what makes you happy and why you do those things today. I will be making my argument for the outdoors man. Why I believe everyone should at least take sometime out of their day, week, month, and venture into the wild. 
 
