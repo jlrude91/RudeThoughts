@@ -1,0 +1,24 @@
+---
+title: 'International Issues, Immigration and Tariffs'
+draft: false
+date: 2018-03-05T16:32:18.876Z
+author: Jerry Rude
+authorAvatar: uploads/author_JerryRude.jpg
+image: /uploads/pexels-photo-414916 (1).jpeg
+categories: ponder
+tags:
+  - Trade
+  - Tariff
+  - Immigration
+  - Daily Ponder
+comments: true
+share: true
+type: post
+---
+Today I have had a lot running through my head as I let YouTube run its course and automatically play video after video. It started with an Intelligent Squared debate about the state of the American economy. Shifted to a video trying to explain the realities of immigration, and finished with Peter Schiff discussing tariffs. What do I get form all this, where do we begin? I think there was one common theme among the debates that holds true for a lot the issues we face today. Were stuck in this feel good middle ground. What we think were doing is good and it paints a good picture. In reality we are likely doing more harm than anything but as a society we are unable to get past out own intuition and experience as we believe were caving in to the opposing views. Ill start with immigration. The video I watched, which I also shared on the RudeThoughts Face Book page and will have a link at the bottom of the article, discussed immigration it no the America. The basic process is that through paperwork, screenings, and evaluation we allow about 1 million immigrants into America. When this is compared to the total impoverished population of the world, there are two unfortunate facts. One - we don't come close to immigrating any meaningful portion of the impoverished population. We aren't even keeping the impoverished population even, its growing more than we are trying to shrink it. This ins't unfortunate in itself, as we are helping people improve their lives and it is better than helping no people. Two- the real kick to the knee, we are taking the most productive and able of the impoverished and making their lives better in America. Were doing nothing to help the actual region they've come from and we are multiplying their chances for continued poverty by taking the best of the people they do have. The equivalent would be an impoverished family, where one parent cares for the kids and the other does what they can to financially support the family. To help, we remove the financially productive member, send them across the state or country and provide welfare there. This is a simplified example, but its the point the speaker was making in the video. It seems to make sense, and it has me interested in looking at this process to see if holds true as explained. As for trade, the intentions behind President Trumps proposed tariffs is to help Americans succeed, get and keep well paying jobs, and participate int the national and global economy. The issue with it is that regulations like tariffs are an attempt to help the person at the cost of the nation and economic efficiency, and another person somewhere else in the same economy. A tariff is basically an import tax. President Trump has expressed his willingness to tariff imported steel and aluminum because he thinks cheaper imported metal is putting American companies at risk. In reality those fees are passed along to the consumer, not the importer. For example, say that aluminum imports have a 25% tariff imposed on them. Beer companies make their cans out of aluminum, so now they have the option of buying expensive American aluminum or the now same priced imported aluminum, because of the tariff. Assuming they were previously buying the cheaper aluminum, they now just buy whatever aluminum they want and incorporate the higher costs to the consumer. Then the consumer starts buying a different beer, maybe even an imported beer, and the domestic beer company is performing poorer. The benefit is that American aluminum companies and their employees are better off, but at the cost of beer company workers and an inefficient economy.  Now take that example and extrapolate it to every item in america that has aluminum and/or steel incorporated into it. I wont get into the trade war part too much, but President Trumps basic idea behind this is retaliation. Other countries will impose tariff's on our imports since we did it to them. In the end, our economy is stronger, so it can hold out and  afford the inefficiency while the competing countries cant. Back to the point of today's daily ponder, we seem to be in these middle grounds. If we went all one way or the other, we'd likely be better off. But we stay in this inefficient middle ground because it seems intuitively more right or moral because we think its helping. In reality, when you dig a little bit, it doesn't take long to figure out we may be doing more damage than good.
+
+<sub><sup>https://youtu.be/5QAa0Dxt_L0</sub></sup>
+
+<sub><sup>https://youtu.be/YBAUcG89II4</sub></sup>
+
+<sub><sup>https://youtu.be/soCzGQGt2jY</sub></sup>
