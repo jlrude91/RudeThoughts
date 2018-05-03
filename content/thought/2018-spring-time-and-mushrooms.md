@@ -4,7 +4,7 @@ draft: false
 date: '2018-05-02'
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
-image: /uploads/image1-3-2-.jpeg
+image: /uploads/image1-4-.jpeg
 categories: thought
 tags:
   - Spring
