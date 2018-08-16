@@ -1,6 +1,6 @@
 ---
 title: Running in the Rain
-draft: true
+draft: false
 date: '2018-08-15'
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
@@ -19,4 +19,4 @@ I was preparing to take a jog today and looking at the sky I noticed that it def
 
 
 
-<sub><sup>Photo by veeterzy from Pexels</sub></sup>
+<sub><sup>Photo by [veeterzy] (https://www.instagram.com/veeterzy/) from [Pexels] (https://www.pexels.com/)</sub></sup>
