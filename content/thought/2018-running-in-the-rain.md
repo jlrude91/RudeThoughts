@@ -1,6 +1,6 @@
 ---
 title: Running in the Rain
-draft: false
+draft: true
 date: '2018-08-15'
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
