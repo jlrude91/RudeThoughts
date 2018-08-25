@@ -1,5 +1,5 @@
 ---
-title: '$15 NOW? I say get rid of minimum wage altogether. '
+title: '$15 NOW!? I say get rid of minimum wage altogether. '
 draft: false
 date: '2018-08-25'
 author: Jerry Rude
