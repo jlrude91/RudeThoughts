@@ -1,5 +1,5 @@
 ---
-title: 'The Science, and Not Science, of Economics'
+title: 'The Science, and Not Science, Side of Economics'
 draft: false
 date: '2018-09-08'
 author: Jerry Rude
