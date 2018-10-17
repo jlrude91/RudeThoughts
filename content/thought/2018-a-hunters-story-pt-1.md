@@ -1,6 +1,6 @@
 ---
 title: A Hunter's Story pt. 1
-draft: true
+draft: false
 date: '2018-10-17'
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
