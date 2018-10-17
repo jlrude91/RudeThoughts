@@ -1,5 +1,5 @@
 ---
-title: A Hunters Story pt. 1
+title: A Hunter's Story pt. 1
 draft: true
 date: '2018-10-17'
 author: Jerry Rude
