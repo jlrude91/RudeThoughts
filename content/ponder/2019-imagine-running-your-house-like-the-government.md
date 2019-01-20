@@ -1,5 +1,5 @@
 ---
-title: 'Imagine Running Your House like the Government '
+title: 'Imagine Running Your House like the Government, a Daily Ponder'
 draft: false
 date: '2019-01-20'
 author: Jerry Rude
