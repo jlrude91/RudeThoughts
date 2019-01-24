@@ -1,6 +1,6 @@
 ---
 title: >-
-  The Government Household,  Part two of Imagine Running a House Like the
+  The Government Household,  Part two of Imagine Running Your House Like the
   Government 
 draft: false
 date: '2019-01-24'
