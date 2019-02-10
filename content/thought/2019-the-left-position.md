@@ -1,5 +1,5 @@
 ---
-title: The Left Position
+title: The Left's Position
 draft: false
 date: '2019-02-10'
 author: Jerry Rude
