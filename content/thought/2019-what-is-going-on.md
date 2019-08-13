@@ -1,6 +1,6 @@
 ---
 title: What Is Going On?
-draft: true
+draft: false
 date: '2019-08-12'
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
