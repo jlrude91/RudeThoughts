@@ -1,6 +1,6 @@
 ---
 title: Oh So Stimulating
-draft: true
+draft: false
 date: '2020-12-24'
 author: Jerry Rude
 authorAvatar: uploads/author_JerryRude.jpg
